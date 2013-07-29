@@ -1,7 +1,6 @@
 
-### Debian Binaries for ZooKeeper 3.3.5
+### Debian Binaries for ZooKeeper 3.4.5
 
 Built on:
 
-    Linux tmp1 2.6.38-8-virtual #42-Ubuntu SMP Mon Apr 11 04:06:34 UTC 2011 x86_64 x86_64 x86_64 GNU/Linux
-
+    Linux tmp1 3.2.0-49-virtual #75-Ubuntu SMP Tue Jun 18 17:59:38 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux
